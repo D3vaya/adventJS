@@ -3,7 +3,7 @@ export const isValidLetter = (letter: string) => {
   if (typeof letter !== "string") throw "el parámetro debe ser string";
 
   const REGEX_NOT_KEYANDBRACKETS = /^[^\[\]\{\}]*$/g;
-  const REGEX_CLOSED_PARENTHESES =/^([^\(\)]*|\(([^()]|\([^\(\)]*\))*\))*$/;
+  const REGEX_CLOSED_PARENTHESES = /^([^\(\)]*|\(([^()]|\([^\(\)]*\))*\))*$/;
   if (!REGEX_NOT_KEYANDBRACKETS.test(letter)) return false;
   if (letter.replace(/\s+/g, "").includes("()")) return false;
   if (!REGEX_CLOSED_PARENTHESES.test(letter)) return false;
