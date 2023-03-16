@@ -14,7 +14,7 @@ Para saber si una carta es válida ✅, debes comprobar que los paréntesis cier
 
 Ejemplos:
 
-```js
+```ts
 "bici coche (balón) bici coche peluche" // -> ✅
 "(muñeca) consola bici" // ✅
 

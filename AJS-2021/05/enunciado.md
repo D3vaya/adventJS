@@ -9,7 +9,7 @@ Para ayudar a esto, vamos a crear una función que pasándole una instancia de *
 
 Veamos unos ejemplos:
 
-```
+```ts
 const date1 = new Date('Dec 1, 2021')
 daysToXmas(date1) // 24
 const date2 = new Date('Dec 24, 2021 00:00:01')
@@ -23,7 +23,7 @@ El resultado tiene que ser **un número entero** y, como ves, aunque falte un se
 
 **¡Pero ojo!** También hay que indicar si la fecha es del mismo día (devolveríamos `0`) o si es una fecha futura (devolveríamos el número de días en negativo `-`):
 
-```
+```ts
 const date = new Date('Dec 25, 2021')
 daysToXmas(date) // 0
 const date1 = new Date('Dec 26, 2021')

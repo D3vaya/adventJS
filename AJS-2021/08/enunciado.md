@@ -11,7 +11,7 @@ La lista de precios es un array de números y representa el tiempo de izquierda 
 
 Por ejemplo:
 
-```
+```ts
 const pricesBtc = [39, 18, 29, 25, 34, 32, 5]
 maxProfit(pricesBtc) // -> 16 (compra a 18, vende a 34)
 
@@ -21,7 +21,7 @@ maxProfit(pricesEth) // -> 60 (compra a 10, vende a 70)
 
 **Si ese día no se puede sacar ningún beneficio**, tenemos que devolver -1 para evitar que hagamos una locura:
 
-```
+```ts
 const pricesDoge = [18, 15, 12, 11, 9, 7]
 maxProfit(pricesDoge) = // -> -1 (no hay ganancia posible)
 

@@ -13,7 +13,7 @@ Si no se encuentra, se devuelve `null`.
 
 Veamos unos ejemplos:
 
-```
+```ts
 sumPairs([3, 5, 7, 2], 10) // [3, 7]
 sumPairs([-3, -2, 7, -5], 10) // null
 sumPairs([2, 2, 3, 1], 4) // [2, 2]

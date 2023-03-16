@@ -9,7 +9,7 @@ Vamos a crear una función `contains` que recibe dos parámetros: un objeto que 
 
 La función debe devolver un booleano que indique si se encuentra el string como valor en algún nivel del objeto. Veamos unos ejemplos:
 
-```
+```ts
 const almacen = {
   'estanteria1': {
     'cajon1': {
