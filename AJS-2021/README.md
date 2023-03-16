@@ -9,3 +9,4 @@
   - [Desafío Nº 5 📆 Contando los días para los regalos](./AJS-2021/../05/enunciado.md)
   - [Desafío Nº 6 📝 Rematando los exámenes finales](./AJS-2021/../06/enunciado.md)
   - [Desafío Nº 7 🏪 Buscando en el almacén](./AJS-2021/../07/enunciado.md)
+  - [Desafío Nº 8 🪙 La locura de las criptomonedas](./AJS-2021/../08/enunciado.md)
