@@ -1,4 +1,3 @@
-
 # El Grinch quiere fastidiar la navidad
 [volver a listado de retos](../README.md)
 

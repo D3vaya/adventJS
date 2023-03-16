@@ -1,4 +1,4 @@
-import { createXmasTree } from "../04/createXmasTree";
+import { createXmasTree, createTrunk } from "../04/createXmasTree";
 describe("Pruebas desafío numero 4", () => {
   it("debe lanzar error si falta el parámetro", () => {
     expect(() => createXmasTree()).toThrowError();
@@ -12,4 +12,5 @@ describe("Pruebas desafío numero 4", () => {
   it("debe lanzar error si el parámetro numerico es menor a 1", () => {
     expect(createXmasTree(-3)).toEqual(false);
   });
+
 });
