@@ -21,6 +21,3 @@ export function groupBy2(list: any[], keyGetter: any) {
   });
   return map;
 }
-
-console.log(groupBy([6.1, 4.2, 6.3], Math.floor));
-//[6.1, 4.2, 6.3] con Math.floor debería ser { 6: [6.1, 6.3], 4: [4.2] }
