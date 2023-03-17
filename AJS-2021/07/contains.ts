@@ -3,55 +3,13 @@ export const contains = (store: Object, product: string) => {
   if (typeof store !== "object") throw "store params is a not object";
   if (typeof product !== "string") throw "product params is a not string";
 
-  //search(store, product, false);
-
-  search(store, product, false);
+  const stock = searchStore(store);
+  return stock.includes(product);
 };
 
-const search = (store: Object, product: string, bol: boolean) => {
-  Object.entries(store).every((element) => {
-    let [key, el] = element;
-
-    console.log("SEARCHING", { key, el, product });
-    if (el === product) {
-      bol = true;
-      console.log("SUCCESS", { key, el, product });
-      return bol;
-    }
-    if (typeof el === "object") {
-      //console.log('recursive',bol)
-      search(el, product, bol);
-    }
-    return true;
-    //console.log('return interio',bol)
-  });
-
-  return bol;
-};
-
-export const search2 = (store: Object, product: string, bol: boolean) => {
-  product;
-  bol;
-  console.log("[LOG] 🚧 ", store);
-  const a = Object.entries(store);
-  a.forEach((element) => {
-    for (const key in element) {
-      key;
-      let [k, el] = element;
-      console.log("2", { k, el });
-      if (el === product) {
-        bol = true;
-        return bol;
-      }
-      if (typeof el === "object") {
-        //console.log('recursive',bol)
-        return search(el, product, bol);
-      }
-      //console.log('return interio',bol)
-    }
-    return bol;
-  });
-  return bol;
+const searchStore = (store: Object): string | string[] => {
+  if (typeof store === "string") return store;
+  return Object.values(store).map(searchStore).flat();
 };
 
 export const almacen = {
@@ -141,4 +99,4 @@ export const otroAlmacen = {
     },
   },
 };
-//console.log({ expected: false, response: contains(otroAlmacen, "gameboy") });
+console.log({ expected: false, response: contains(otroAlmacen, "gameboy") });
