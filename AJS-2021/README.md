@@ -13,3 +13,5 @@
   - [Desafío Nº 7 🏪 Buscando en el almacén](./AJS-2021/../07/enunciado.md)
   - [Desafío Nº 8 🪙 La locura de las criptomonedas](./AJS-2021/../08/enunciado.md)
   - [Desafío Nº 9 📦 Agrupando cosas automáticamente](./AJS-2021/../09/enunciado.md)
+  - [Desafío Nº 10 💰 La máquina de cambio](./AJS-2021/../10/enunciado.md)
+  - [Desafío Nº 11 🎟️ ¿Vale la pena la tarjeta fidelidad del cine?](./AJS-2021/../11/enunciado.md)
