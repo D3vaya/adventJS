@@ -1,4 +1,4 @@
-# El Grinch quiere fastidiar la navidad
+# Rematando los exámenes finales
 [volver a listado de retos](../README.md)
 
 ## Enunciado

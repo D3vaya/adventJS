@@ -1,4 +1,4 @@
-# El Grinch quiere fastidiar la navidad
+# La locura de las criptomonedas
 [volver a listado de retos](../README.md)
 
 ## Enunciado

@@ -1,4 +1,4 @@
-# El Grinch quiere fastidiar la navidad
+# Buscando el almacen
 [volver a listado de retos](../README.md)
 
 ## Enunciado

@@ -1,4 +1,4 @@
-# El Grinch quiere fastidiar la navidad
+# Contando los dias para los regalos
 [volver a listado de retos](../README.md)
 
 ## Enunciado

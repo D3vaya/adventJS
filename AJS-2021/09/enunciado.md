@@ -1,4 +1,4 @@
-# El Grinch quiere fastidiar la navidad
+# Agrupando cosas automáticamente
 [volver a listado de retos](../README.md)
 
 ## Enunciado

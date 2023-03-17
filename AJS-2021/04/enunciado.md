@@ -1,4 +1,4 @@
-# El Grinch quiere fastidiar la navidad
+# ¡Es hora de la navidad en casa!
 [volver a listado de retos](../README.md)
 
 ## Enunciado
