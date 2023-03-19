@@ -1,4 +1,4 @@
-# Decifrando números
+# La locura de enviar paquetes en esta epoca
 [volver a listado de retos](../README.md)
 
 <div>
