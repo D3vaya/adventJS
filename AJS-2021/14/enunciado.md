@@ -2,6 +2,9 @@
 [volver a listado de retos](../README.md)
 
 ## Enunciado
+<div>
+  <img height="50" src="../img/reindeer.png" />
+</div>
 
 ¡Hemos perdido a un reno y falta poco más de una semana para Navidad! 😱
 
