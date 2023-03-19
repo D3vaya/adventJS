@@ -20,3 +20,4 @@
   - [Desafío Nº 14 🦌 En busca del reno perdido](./AJS-2021/../14/enunciado.md)
   - [Desafío Nº 15 💸 El salto perfecto](./AJS-2021/../15/enunciado.md)
   - [Desafío Nº 16 🔢 Decifrando números](./AJS-2021/../16/enunciado.md)
+  - [Desafío Nº 17 🚛 La locura de enviar paquetes en esta época](./AJS-2021/../17/enunciado.md)
