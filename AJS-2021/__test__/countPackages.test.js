@@ -49,3 +49,4 @@ describe("Casos de prueba", () => {
     expect(expected).toEqual(15);
   });
 });
+
