@@ -5,3 +5,4 @@
 ## Retos
 
   - [AÑO 2021](./AJS-2021/README.md)
+  - [AÑO 2022](./AJS-2022/README.md)
