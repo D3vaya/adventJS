@@ -21,5 +21,13 @@
   - [Desafío Nº 15 💸 El salto perfecto](./AJS-2021/../15/enunciado.md)
   - [Desafío Nº 16 🔢 Decifrando números](./AJS-2021/../16/enunciado.md)
   - [Desafío Nº 17 🚛 La locura de enviar paquetes en esta época](./AJS-2021/../17/enunciado.md)
-  - [Desafío Nº 18 🖥️ El sistema operativo de Santa Claus](./AJS-2021/../17/enunciado.md)
-  - [Desafío Nº 19 💚 ¿Qué deberíamos aprender con Platzi?](./AJS-2021/../17/enunciado.md)
+  - [Desafío Nº 18 🖥️ El sistema operativo de Santa Claus](./AJS-2021/../18/enunciado.md)
+  - [Desafío Nº 19 💚 ¿Qué deberíamos aprender con Platzi?](./AJS-2021/../19/enunciado.md)
+  - [Desafío Nº 20 🔡 ¿Una carta de pangramas? ¡QUÉ!](./AJS-2021/../20/enunciado.md)
+  - [Desafío Nº 21 🎁 La ruta de los regalos](./AJS-2021/../21/enunciado.md)
+  - [Desafío Nº 22 🎄 ¿Cuantos adornos necesita el árbol?](./AJS-2021/../22/enunciado.md)
+  - [Desafío Nº 23 🏭 ¿Puedes reconfigurar las fábricas para no parar de crear regalos?](./AJS-2021/../23/enunciado.md)
+  - [Desafío Nº 24 🌲 Comprando árboles de navidad](./AJS-2021/../24/enunciado.md)
+  - [Desafío Nº 25 👋🏼 El último juego y hasta el año que viene](./AJS-2021/../25/enunciado.md)
+
+
